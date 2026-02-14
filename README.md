@@ -11,12 +11,13 @@ Table of Contents
 4. [Usage Examples](#usage-examples)
 5. [Troubleshooting](#troubleshooting)
 6. [Conclusion](#conclusion)
+    - [Status](#status)
 
 ---
 
 ## Overview
 
-This personal project is a _very_ simple terminal game in C about two [champions](https://www.leagueoflegends.com/en-us/champions/) (playable characters) from the game of [League of Legends](https://www.leagueoflegends.com/en-us/) battling each other for glory and fame!
+This personal project is a _very_ simple command-line game in C about two [champions](https://www.leagueoflegends.com/en-us/champions/) (playable characters) from the game of [League of Legends](https://www.leagueoflegends.com/en-us/) battling each other for glory and fame!
 
 > [!NOTE]
 > This project is inspired and very similar to [one of Lane's first coding projects from boot.dev](https://www.boot.dev/lessons/b34b0f83-0af0-4bad-9e8d-65ebcd8d7cbc)
@@ -25,8 +26,6 @@ This personal project is a _very_ simple terminal game in C about two [champions
 
 I wanted to create my very own personal project without relying on tutorials or guides—so that I don't fall prey to the temptations of [tutorial hell](https://blog.boot.dev/education/building-your-first-coding-project/)—in [C](https://en.wikipedia.org/wiki/C_(programming_language)), a low-level language relative to the more popular coding languages. I created this project after finishing [Boot.dev's Memory Management course](https://www.boot.dev/courses/learn-memory-management-c).
 
-Started 2/13/2026
-Finished 2/14/2026 (?)
 
 ## Getting Started
 
@@ -68,3 +67,9 @@ Feel free to peer into the source code in the `src` folder to troubleshoot any e
 ## Conclusion
 
 I hope you enjoy this game!
+
+### Status
+
+Started 2/13/2026
+
+WIP: I plan to implement error handling should the user input be wrong and perhaps a better display of the program in the CLI...
